@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ovidiu Donciu, Quality Advocate & Test Engineering Manager
 - 👀 I’m interested in product quality and supporting teams
 - 🌱 I’m currently learning React apps, Leadership, Quality Strategy and Metrics
-- 💞️ I’m looking to collaborate on test automation & web apps
+- 💞️ I’m looking to collaborate on test strategy, test management, product development
 - 📫 How to reach me: ovidon83@gmail.com, https://www.linkedin.com/in/ovidiudonciu/
 
 <!---
